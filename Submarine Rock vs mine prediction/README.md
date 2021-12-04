@@ -1,6 +1,6 @@
 Submarine Rock vs Mine prediction 
 
-Steps Folowed:
+Steps Followed:
 
 a) Collected the sonar data and read it in pandas data frame.
 
